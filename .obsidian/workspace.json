@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31223cba8b865754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quilts and more.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quilts and more.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quilts and more.md"
+                "file": "index.md"
               }
             }
           }
@@ -182,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "921ee999fa4f24cd",
+  "active": "31223cba8b865754",
   "lastOpenFiles": [
-    "cousins met.md",
     "Quilts and more.md",
+    "cousins met.md",
     "todays note.md",
     "AIML.md"
   ]
