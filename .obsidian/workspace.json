@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "b55802dbcfff57df",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3fc5a96d552854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a02f661d5691b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todays note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4678094d9db5b4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbb9caa0c1733544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quilts and more.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "921ee999fa4f24cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quilts and more.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cce78201572a5381",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb0da93ab244b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972387f0a4a72440",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "443f39161b8ca4bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02a7cc7c96cab805",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "753b7fe9f43afaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd55602faaf3359e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfba089c1d4b8157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quilts and more.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f45321b5c20acea2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quilts and more.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d576b8e5487f2510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f410009695278bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quilts and more.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "921ee999fa4f24cd",
+  "lastOpenFiles": [
+    "cousins met.md",
+    "Quilts and more.md",
+    "todays note.md",
+    "AIML.md"
+  ]
+}
