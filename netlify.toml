@@ -2,7 +2,9 @@
 # command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/nachinolkar/digital-garden-saurabh.git __site && __site/run.sh"
 # command = "rm -rf __obsidian __site && mkdir __obsidian  && mv * __obsidian"
 # command = "git config --global user.email 'nachinolkar@hotmail.com' && git config --global user.name 'nachinolkar' && git update-index --add --chmod=+x run.sh && git commit -m 'Make run.sh executable' && git push origin HEAD:main && git clone https://github.com/nachinolkar/digital-garden-saurabh __site && __site/run.sh"
-command = "git config --global user.email 'nachinolkar@hotmail.com' && git config --global user.name 'nachinolkar' && git update-index --add --chmod=+x run.sh && git commit -m 'Make run.sh executable' && git clone https://github.com/nachinolkar/ThoughtsAtFifty __site  && __site/run.sh"
+# command = "git config --global user.email 'nachinolkar@hotmail.com' && git config --global user.name 'nachinolkar' && git update-index --add --chmod=+x run.sh && git commit -m 'Make run.sh executable' && git clone https://github.com/nachinolkar/ThoughtsAtFifty __site  && __site/run.sh"
+
+command = "git update-index --add --chmod=+x __site/run.sh && git commit -m 'Make build.sh executable' && git push && git clone https://github.com/nachinolkar/ThoughtsAtFifty __site  && __site/run.sh"
 publish = "public"
 
 [build.environment]
