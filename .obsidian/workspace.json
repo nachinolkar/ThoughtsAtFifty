@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todays note.md",
+                "file": "thoughtsatfifty/content/daily journal/9th jan.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,36 +23,24 @@
             "id": "4678094d9db5b4e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "bbb9caa0c1733544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quilts and more.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "921ee999fa4f24cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quilts and more.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -62,9 +50,48 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "84831948aee877a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "68ecb2fe9a9f2f1c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "31e0fd1e9b5e09e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f49ff929af54b5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "28217e09eac06078",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.5
   },
   "right": {
     "id": "753b7fe9f43afaa2",
@@ -130,13 +157,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thoughtsatfifty/content/daily journal/9th jan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "thoughtsatfifty/content/daily journal/9th jan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,14 +196,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "thoughtsatfifty/content/daily journal/9th jan.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31223cba8b865754",
+  "active": "1a02f661d5691b20",
   "lastOpenFiles": [
-    "index.md",
-    "Quilts and more.md",
-    "cousins met.md",
-    "todays note.md",
-    "AIML.md"
+    "thoughtsatfifty/content/daily journal/8th jan.md",
+    "thoughtsatfifty/content/daily journal/9th jan.md",
+    "@/content/daily-journal/8th-jan.md",
+    "@/daily-journal/8th-jan.md",
+    "@/daily-journal/8th.md",
+    "@/daily.md",
+    "thoughtsatfifty/content/daily journal/StyleGAN.md",
+    "thoughtsatfifty/content/daily journal/Cool Filaments.md",
+    "thoughtsatfifty/content/daily journal/Nice Fonts.md",
+    "thoughtsatfifty/content/daily journal/10th jan 2023.md"
   ]
 }
