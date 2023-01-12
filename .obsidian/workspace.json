@@ -4,91 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ba3fc5a96d552854",
+        "id": "0b49413467faa1a2",
         "type": "tabs",
         "children": [
           {
-            "id": "1a02f661d5691b20",
+            "id": "5ec51199bf9e565f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "thoughtsatfifty/content/daily journal/9th jan.md",
                 "mode": "source",
-                "source": false
+                "backlinks": false,
+                "source": true
               }
-            }
-          },
-          {
-            "id": "4678094d9db5b4e5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bbb9caa0c1733544",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "921ee999fa4f24cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "31223cba8b865754",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "84831948aee877a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "68ecb2fe9a9f2f1c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "31e0fd1e9b5e09e9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f49ff929af54b5c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "28217e09eac06078",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -161,7 +90,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -200,35 +129,88 @@
                 "file": "thoughtsatfifty/content/daily journal/9th jan.md"
               }
             }
+          },
+          {
+            "id": "a42af352ddb9396d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "72c4ecfd16a18666",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "07e1d87dbde97bf1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6edc4768562a95f6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b68fcaf7fdbb6ea",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "f60f9d0baf802404",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "1a02f661d5691b20",
+  "active": "5ec51199bf9e565f",
   "lastOpenFiles": [
-    "thoughtsatfifty/content/daily journal/8th jan.md",
+    "thoughtsatfifty/content/daily journal/_index.md",
     "thoughtsatfifty/content/daily journal/9th jan.md",
-    "@/content/daily-journal/8th-jan.md",
+    "thoughtsatfifty/content/daily journal/8th jan.md",
+    "thoughtsatfifty/content/blog/first.md",
+    "thoughtsatfifty/content/blog/second.md",
+    "Temp for notes/Learning/Stock Market!.md",
+    "thoughtsatfifty/content/daily journal/Cool Filaments.md",
     "@/daily-journal/8th-jan.md",
     "@/daily-journal/8th.md",
-    "@/daily.md",
-    "thoughtsatfifty/content/daily journal/StyleGAN.md",
-    "thoughtsatfifty/content/daily journal/Cool Filaments.md",
-    "thoughtsatfifty/content/daily journal/Nice Fonts.md",
-    "thoughtsatfifty/content/daily journal/10th jan 2023.md"
+    "@/content/daily-journal/8th-jan.md"
   ]
 }
