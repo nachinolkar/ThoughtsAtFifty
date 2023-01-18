@@ -1,6 +1,5 @@
 # The URL the site will be built for
-# base_url = "https://example.com"
-base_url = "___SITE_URL___"
+base_url = "https://example.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -15,5 +14,3 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-
-internal_level = "warn"

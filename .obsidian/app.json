@@ -2,7 +2,8 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "newFileLocation": "current",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "attachmentFolderPath": "attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false
 }
