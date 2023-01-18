@@ -2,7 +2,7 @@
 command1 = "rm -rf __obsidian __site"
 command2 = "mkdir /obsidian"
 command3 = "mv * /obsidian"
-command = "git clone https://github.com/nachinolkar/ThoughtsAtFifty __site && chmod a+x __site/run.sh __site/run.sh"
+command = "git clone https://github.com/nachinolkar/ThoughtsAtFifty __site && chmod a+x __site/run.sh && __site/run.sh"
 
 #command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone #https://github.com/nachinolkar/ThoughtsAtFifty.git __site && __site/run.sh"
 
