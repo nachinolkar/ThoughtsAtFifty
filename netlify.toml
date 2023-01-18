@@ -1,8 +1,8 @@
 [build]
-command = "rm -rf __obsidian __site"
+command1 = "rm -rf __obsidian __site"
 command2 = "mkdir /obsidian"
 command3 = "mv * /obsidian"
-command4 = "git clone #https://github.com/nachinolkar/ThoughtsAtFifty.git __site"
+command = "git clone #https://github.com/nachinolkar/ThoughtsAtFifty.git __site"
 
 #command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone #https://github.com/nachinolkar/ThoughtsAtFifty.git __site && __site/run.sh"
 
