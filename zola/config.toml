@@ -1,4 +1,4 @@
-base_url = "___SITE_URL___"
+base_url = "https://nachinolkar.netlify.app"
 title = "___SITE_TITLE___"
 
 build_search_index = true
