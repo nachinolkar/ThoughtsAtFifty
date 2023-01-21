@@ -2,7 +2,7 @@
 command1 = "rm -rf __obsidian __site"
 command2 = "mkdir /obsidian"
 command3 = "mv * /obsidian"
-command = "git clone https://github.com/nachinolkar/ThoughtsAtFifty __site && chmod a+x __site/run.sh && __site/run.sh"
+command = "rm -rf __obsidian __site && git clone https://github.com/nachinolkar/ThoughtsAtFifty __site && chmod a+x __site/run.sh && __site/run.sh"
 
 #command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone #https://github.com/nachinolkar/ThoughtsAtFifty.git __site && __site/run.sh"
 
@@ -16,7 +16,7 @@ LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "Sheetal loves obsidian-zola! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/nachinolkar/ThoughtsAtFifty"
