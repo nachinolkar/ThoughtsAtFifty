@@ -10,7 +10,7 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "Click to steal some from Sheetal👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
@@ -25,7 +25,7 @@ SITE_TITLE = "Sheetal's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://nachinolkar.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
