@@ -5,7 +5,7 @@
 ## Required
 
 ### `SITE_URL`
-URL to your netlify site.
+URL to your netlify site. Is this the correct file?
 
 ### `REPO_URL`
 GitHub repo URL where your Markdown files are hosted.
