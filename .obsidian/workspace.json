@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughtsatfifty/obsidian/home.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 340.5
   },
   "right": {
     "id": "753b7fe9f43afaa2",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/obsidian/home.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/obsidian/home.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughtsatfifty/obsidian/home.md"
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md"
               }
             }
           },
@@ -203,9 +203,9 @@
   },
   "active": "b337d14df9f77df0",
   "lastOpenFiles": [
+    "thoughtsatfifty/obsidian/home.md",
     "obsidian/home.md",
     "thoughtsatfifty/obsidian/Deep Learning/StyleGAN.md",
-    "thoughtsatfifty/obsidian/home.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Motors.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Gear and Belt Generators.md",
