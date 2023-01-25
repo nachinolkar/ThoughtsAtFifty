@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughtsatfifty/content/daily journal/9th jan.md",
+                "file": "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/content/daily journal/9th jan.md",
+                "file": "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/content/daily journal/9th jan.md",
+                "file": "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughtsatfifty/content/daily journal/9th jan.md"
+                "file": "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md"
               }
             }
           },
@@ -200,17 +200,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5ec51199bf9e565f",
+  "active": "972387f0a4a72440",
   "lastOpenFiles": [
-    "thoughtsatfifty/content/daily journal/8th january.md",
+    "thoughtsatfifty/obsidian/3D Printing/Firmware/Klipper on MPMD V1.md",
+    "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
+    "thoughtsatfifty/obsidian/3D Printing/3D Models/Motors.md",
+    "thoughtsatfifty/obsidian/3D Printing/3D Models/Gear and Belt Generators.md",
     "thoughtsatfifty/content/daily journal/9th jan.md",
+    "thoughtsatfifty/content/daily journal/8th january.md",
     "thoughtsatfifty/content/daily journal/_index.md",
     "thoughtsatfifty/content/blog/first.md",
     "thoughtsatfifty/content/blog/second.md",
-    "Temp for notes/Learning/Stock Market!.md",
-    "thoughtsatfifty/content/daily journal/Cool Filaments.md",
-    "@/daily-journal/8th-jan.md",
-    "@/daily-journal/8th.md",
-    "@/content/daily-journal/8th-jan.md"
+    "Temp for notes/Learning/Stock Market!.md"
   ]
 }
