@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b49413467faa1a2",
+        "id": "9720b31ea2dc0976",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec51199bf9e565f",
+            "id": "5b614df0f1a7a63f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
+                "file": "thoughtsatfifty/obsidian/home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
+                "file": "thoughtsatfifty/obsidian/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
+                "file": "thoughtsatfifty/obsidian/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md"
+                "file": "thoughtsatfifty/obsidian/home.md"
               }
             }
           },
@@ -200,13 +200,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5ec51199bf9e565f",
+  "active": "5b614df0f1a7a63f",
   "lastOpenFiles": [
+    "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Motors.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Gear and Belt Generators.md",
     "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md",
     "thoughtsatfifty/obsidian/3D Printing/Firmware/Klipper on MPMD V1.md",
-    "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
     "thoughtsatfifty/content/daily journal/9th jan.md",
     "thoughtsatfifty/content/daily journal/8th january.md",
     "thoughtsatfifty/content/daily journal/_index.md",
