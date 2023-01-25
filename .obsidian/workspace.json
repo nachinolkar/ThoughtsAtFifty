@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Adam.md"
+                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md"
               }
             }
           },
@@ -201,8 +201,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b337d14df9f77df0",
+  "active": "972387f0a4a72440",
   "lastOpenFiles": [
+    "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
     "thoughtsatfifty/obsidian/home.md",
     "obsidian/home.md",
     "thoughtsatfifty/obsidian/Deep Learning/StyleGAN.md",
@@ -211,7 +212,6 @@
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Gear and Belt Generators.md",
     "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md",
     "thoughtsatfifty/obsidian/3D Printing/Firmware/Klipper on MPMD V1.md",
-    "thoughtsatfifty/content/daily journal/9th jan.md",
-    "thoughtsatfifty/content/daily journal/8th january.md"
+    "thoughtsatfifty/content/daily journal/9th jan.md"
   ]
 }

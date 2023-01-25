@@ -6,7 +6,7 @@ Sheetal: Equalized Learning Rate is a concept introduced in [[ProGAN]].
 Modern optimizers such as the [[Deep Learning/Adam]] optimzer limit gradient update step sizes. However, in GANs, different parameters have vastly different dynamic ranges (i.e. the range of values). In order to equalize the learning rate between different parameters, we divide the parameters by its fan-in (i.e. estimated standard deviation) during runtime.
 
 ![[Deep Learning/Adam#Update rule]]
-
+[[Adam]]
 [*Reference video*](https://www.youtube.com/watch?v=XwUTJhKRVl8&feature=emb_title)
 
 Note that StyleGAN2 code ignored the root 2 factor in their scaling factor because it was cancelled with the subsequent summing with bias term. Smart pants.
