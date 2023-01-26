@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9c4ac90754bd3a",
+        "id": "738c806652f97391",
         "type": "tabs",
         "children": [
           {
-            "id": "a1762a8e144b8b43",
+            "id": "d81d72b2c104acb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md"
+              }
             }
           },
           {
@@ -192,17 +201,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a1762a8e144b8b43",
+  "active": "972387f0a4a72440",
   "lastOpenFiles": [
-    "thoughtsatfifty/obsidian/Deep Learning/ResNet.md",
-    "thoughtsatfifty/obsidian/Deep Learning/ProGAN.md",
-    "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Papers to Read.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Overly Complicated Diagram of MLOps.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Normalization Techniques.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Improved Precision and Recall Metric for Assessing Generative Models.md",
-    "thoughtsatfifty/obsidian/Deep Learning/GAN Quality Metrics.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Eureka Concepts.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA or Autograd Functions in Pytorch😃😃.md"
+    "thoughtsatfifty/obsidian/Miscellaneous/Renovation Nonos.md",
+    "thoughtsatfifty/obsidian/home.md",
+    "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+    "thoughtsatfifty/obsidian/Miscellaneous/Linux Tricks.md",
+    "thoughtsatfifty/obsidian/Miscellaneous/Electromagnetism.md",
+    "thoughtsatfifty/obsidian/Maths/Statistics.md",
+    "thoughtsatfifty/obsidian/Maths/Multiobjective Optimization.md",
+    "thoughtsatfifty/obsidian/Maths/Linear Algebra.md",
+    "thoughtsatfifty/obsidian/Maths/Conceptual Questions.md",
+    "thoughtsatfifty/obsidian/Lists/Stuff to Read.md"
   ]
 }
