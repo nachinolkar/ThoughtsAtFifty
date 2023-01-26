@@ -11,8 +11,13 @@
             "id": "56528ac699f77e95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "753b7fe9f43afaa2",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/_index.md"
+              }
             }
           },
           {
@@ -193,11 +201,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "56528ac699f77e95",
+  "active": "972387f0a4a72440",
   "lastOpenFiles": [
+    "thoughtsatfifty/obsidian/home.md",
     "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
     "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
-    "thoughtsatfifty/obsidian/home.md",
     "obsidian/home.md",
     "thoughtsatfifty/obsidian/Deep Learning/StyleGAN.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
