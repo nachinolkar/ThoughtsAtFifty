@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Test Sheetal Gear and Belt Generators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Test Sheetal Gear and Belt Generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Test Sheetal Gear and Belt Generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md"
+                "file": "thoughtsatfifty/obsidian/3D Printing/3D Models/Test Sheetal Gear and Belt Generators.md"
               }
             }
           },
@@ -201,17 +201,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "972387f0a4a72440",
+  "active": "d81d72b2c104acb4",
   "lastOpenFiles": [
-    "thoughtsatfifty/obsidian/Miscellaneous/Renovation Nonos.md",
-    "thoughtsatfifty/obsidian/home.md",
-    "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Eureka Concepts.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA or Autograd Functions in Pytorch😃😃.md",
     "thoughtsatfifty/obsidian/Miscellaneous/Linux Tricks.md",
+    "thoughtsatfifty/obsidian/Miscellaneous/Renovation Nonos.md",
+    "thoughtsatfifty/obsidian/Miscellaneous/Microsoft Office Tricks.md",
+    "thoughtsatfifty/obsidian/home.md",
     "thoughtsatfifty/obsidian/Miscellaneous/Electromagnetism.md",
     "thoughtsatfifty/obsidian/Maths/Statistics.md",
-    "thoughtsatfifty/obsidian/Maths/Multiobjective Optimization.md",
-    "thoughtsatfifty/obsidian/Maths/Linear Algebra.md",
-    "thoughtsatfifty/obsidian/Maths/Conceptual Questions.md",
-    "thoughtsatfifty/obsidian/Lists/Stuff to Read.md"
+    "thoughtsatfifty/obsidian/Maths/Multiobjective Optimization.md"
   ]
 }
