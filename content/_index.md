@@ -1,9 +1,9 @@
 ---
-title: "___sheetald LANDING_TITLE___"
+title: "Thoughts at Fifty"
 sort_by: "___SORT_BY___"
 
 extra:
-  lead: "___LANDING_DESCRIPTION___"
+  lead: "This is my trial brain___LANDING_DESCRIPTION___"
   url: "/docs/___LANDING_PAGE___"
-  url_button: "___LANDING_BUTTON___"
+  url_button: "Want to peep?"
 ---
