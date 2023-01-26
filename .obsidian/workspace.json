@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0efb2af8ba3e302",
+        "id": "4c9c4ac90754bd3a",
         "type": "tabs",
         "children": [
           {
-            "id": "56528ac699f77e95",
+            "id": "a1762a8e144b8b43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,17 +192,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "972387f0a4a72440",
+  "active": "a1762a8e144b8b43",
   "lastOpenFiles": [
-    "thoughtsatfifty/obsidian/home.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
-    "obsidian/home.md",
-    "thoughtsatfifty/obsidian/Deep Learning/StyleGAN.md",
-    "thoughtsatfifty/obsidian/3D Printing/3D Models/Prusa Mini Customization.md",
-    "thoughtsatfifty/obsidian/3D Printing/3D Models/Motors.md",
-    "thoughtsatfifty/obsidian/3D Printing/3D Models/Gear and Belt Generators.md",
-    "thoughtsatfifty/obsidian/3D Printing/Firmware/Octoprint.md",
-    "thoughtsatfifty/obsidian/3D Printing/Firmware/Klipper on MPMD V1.md"
+    "thoughtsatfifty/obsidian/Deep Learning/ResNet.md",
+    "thoughtsatfifty/obsidian/Deep Learning/ProGAN.md",
+    "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Papers to Read.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Overly Complicated Diagram of MLOps.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Normalization Techniques.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Improved Precision and Recall Metric for Assessing Generative Models.md",
+    "thoughtsatfifty/obsidian/Deep Learning/GAN Quality Metrics.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Eureka Concepts.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA or Autograd Functions in Pytorch😃😃.md"
   ]
 }
