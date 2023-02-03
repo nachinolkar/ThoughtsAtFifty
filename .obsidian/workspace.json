@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "738c806652f97391",
+        "id": "1a8954b7adf9fc45",
         "type": "tabs",
         "children": [
           {
-            "id": "d81d72b2c104acb4",
+            "id": "6b8b7e9544edcec0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,17 +168,49 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7e675b8bdae52aa4",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2315477c00833c4",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4c7637d5463476a",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "787ffbb100e9c2cf",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -201,13 +224,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "972387f0a4a72440",
+  "active": "787ffbb100e9c2cf",
   "lastOpenFiles": [
+    "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
     "Temp for notes not needed/Family/cousins met.md",
     "Temp for notes not needed/Family/Family picture.md",
     "content/_index.md",
     "thoughtsatfifty/obsidian/3D Printing/3D Models/Test Sheetal Gear and Belt Generators.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Equalized Learning Rate.md",
     "thoughtsatfifty/obsidian/Deep Learning/Eureka Concepts.md",
     "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA or Autograd Functions in Pytorch😃😃.md",
     "thoughtsatfifty/obsidian/Miscellaneous/Linux Tricks.md",

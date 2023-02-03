@@ -6,5 +6,6 @@
   "attachmentFolderPath": "attachments",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "vimMode": false
 }
