@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "zola/content/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "zola/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "zola/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zola/content/_index.md"
+                "file": "zola/content/index.md"
               }
             }
           },
@@ -233,7 +233,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "972387f0a4a72440",
+  "active": "0a05577d4ee307f1",
   "lastOpenFiles": [
     "content/_index del.md",
     "docs/Cousins Met.md",
