@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md"
               }
             }
           },
@@ -249,15 +249,15 @@
   },
   "active": "85a273e47865a877",
   "lastOpenFiles": [
-    "content/Klipper on MPMD V1.md",
-    "thoughtsatfifty/obsidian/Deep Learning/A.md",
-    "content/_index.md",
-    "thoughtsatfifty/obsidian/A Printing/Cool Filaments.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA or Autograd Functions in Pytorch😃😃.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
-    "thoughtsatfifty/obsidian/3D Printing/3D Models/Motors.md",
-    "thoughtsatfifty/obsidian/Deep Learning/ProGAN.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Papers to Read.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Overly Complicated Diagram of MLOps.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Normalization Techniques.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Improved Precision and Recall Metric for Assessing Generative Models.md",
+    "thoughtsatfifty/obsidian/Deep Learning/GAN Quality Metrics.md",
     "thoughtsatfifty/obsidian/Deep Learning/Eureka Concepts.md",
-    "thoughtsatfifty/obsidian/A Printing/Firmware/Equalized Learning Rate.md"
+    "thoughtsatfifty/obsidian/Deep Learning/Adam.md",
+    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA or Autograd Functions in Pytorch😃😃.md",
+    "thoughtsatfifty/obsidian/Deep Learning/A.md",
+    "thoughtsatfifty/obsidian/A Printing/Cool Filaments.md"
   ]
 }
