@@ -40,9 +40,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9bcb8fe5adf0f99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONFIG.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2214fd1459f1b7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_home.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_home.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_home.md"
+                "file": "_index.md"
               }
             }
           },
@@ -255,17 +281,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "99e8bed606892512",
+  "active": "2214fd1459f1b7da",
   "lastOpenFiles": [
+    "CONFIG.md",
+    "docs/Untitled.md",
+    "docs/_home.md",
     "docs/cousins met.md",
     "thoughtsatfifty/obsidian/home.md",
     "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA in Pytorch😃😃.md",
     "thoughtsatfifty/obsidian/Deep Learning/A.md",
     "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
     "thoughtsatfifty/obsidian/Deep Learning/Papers to Read.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Overly Complicated Diagram of MLOps.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Normalization Techniques.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Improved Precision and Recall Metric for Assessing Generative Models.md",
-    "thoughtsatfifty/obsidian/Deep Learning/GAN Quality Metrics.md"
+    "thoughtsatfifty/obsidian/Deep Learning/Overly Complicated Diagram of MLOps.md"
   ]
 }
