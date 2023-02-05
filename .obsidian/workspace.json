@@ -4,79 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1a8954b7adf9fc45",
+        "id": "d75148d719b5b94b",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8b7e9544edcec0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "85a273e47865a877",
+            "id": "0a05577d4ee307f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Cousins Met.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "99e8bed606892512",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9bcb8fe5adf0f99e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONFIG.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2214fd1459f1b7da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughtsatfifty/obsidian/home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e93c906409014851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
+                "file": "content/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Untitled.md"
               }
             }
           },
@@ -289,17 +233,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e93c906409014851",
+  "active": "0a05577d4ee307f1",
   "lastOpenFiles": [
-    "_index.md",
-    "content/_index.md",
+    "content/_index del.md",
     "docs/Cousins Met.md",
+    "CONFIG.md",
+    "thoughtsatfifty/obsidian/home.md",
+    "_index.md",
     "docs/Family picture.md",
     "docs/_index2.md",
-    "thoughtsatfifty/obsidian/home.md",
     "docs/_home.md",
     "content/cousins met.md",
-    "content/Family picture.md",
-    "CONFIG.md"
+    "content/Family picture.md"
   ]
 }
