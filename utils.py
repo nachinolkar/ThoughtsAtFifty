@@ -305,7 +305,7 @@ class Settings:
         		shape: "dot",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
-        			face: "Inter",
+        			face: "Calibri",
         			color: isDark() ? "#c9cdd1" : "#616469",
         			strokeColor: isDark() ? "#c9cdd1" : "#616469",
         		},
