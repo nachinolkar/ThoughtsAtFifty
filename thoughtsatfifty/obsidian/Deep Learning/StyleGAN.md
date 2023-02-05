@@ -1,5 +1,5 @@
 Concepts:
-[[Equalized Learning Rate]]
+[[../A Printing/Firmware/Equalized Learning Rate]]
 [[Weight Initialization]]
 
 

@@ -2,7 +2,7 @@
 
 When designing a deep learning architecture, the statistical properties of the propagating is an important consideration to take note of. 
 
-With proper initialization, one can ensure that variance is conserved in the forward / backward pass (you gotta choose one cuz they propagate differently) when the network was first initialized. The concept of [[Equalized Learning Rate]] preserves the variance in runtime and hence makes weight initialization not as important.
+With proper initialization, one can ensure that variance is conserved in the forward / backward pass (you gotta choose one cuz they propagate differently) when the network was first initialized. The concept of [[../A Printing/Firmware/Equalized Learning Rate]] preserves the variance in runtime and hence makes weight initialization not as important.
 
 https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79
 
