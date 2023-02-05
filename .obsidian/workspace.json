@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Family picture.md",
+                "file": "content/cousins met.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Family picture.md",
+                "file": "content/cousins met.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Family picture.md",
+                "file": "content/cousins met.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Family picture.md"
+                "file": "content/cousins met.md"
               }
             }
           },
@@ -283,15 +283,15 @@
   },
   "active": "972387f0a4a72440",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/cousins met.md",
+    "content/Family picture.md",
     "_index.md",
     "CONFIG.md",
     "docs/Untitled.md",
     "docs/_home.md",
     "docs/cousins met.md",
     "thoughtsatfifty/obsidian/home.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA in Pytorch😃😃.md",
-    "thoughtsatfifty/obsidian/Deep Learning/A.md",
-    "thoughtsatfifty/obsidian/Deep Learning/pixel2Style2Pixel.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Papers to Read.md"
+    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA in Pytorch😃😃.md"
   ]
 }
