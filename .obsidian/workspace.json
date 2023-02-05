@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -291,13 +291,13 @@
   },
   "active": "972387f0a4a72440",
   "lastOpenFiles": [
-    "docs/content/_index.md",
-    "docs/Family picture.md",
     "docs/Cousins Met.md",
+    "docs/Family picture.md",
+    "content/_index.md",
+    "_index.md",
     "docs/_index2.md",
     "thoughtsatfifty/obsidian/home.md",
     "docs/_home.md",
-    "_index.md",
     "content/cousins met.md",
     "content/Family picture.md",
     "CONFIG.md"
