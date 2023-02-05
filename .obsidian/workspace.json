@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cousins met.md",
+                "file": "docs/Cousins Met.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -32,13 +32,8 @@
             "id": "99e8bed606892512",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -60,7 +55,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Family picture.md",
+                "file": "thoughtsatfifty/obsidian/home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e93c906409014851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -68,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Family picture.md",
+                "file": "docs/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Family picture.md",
+                "file": "docs/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Family picture.md"
+                "file": "docs/_index.md"
               }
             }
           },
@@ -281,17 +289,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2214fd1459f1b7da",
+  "active": "e93c906409014851",
   "lastOpenFiles": [
-    "content/_index.md",
+    "thoughtsatfifty/obsidian/home.md",
     "docs/Family picture.md",
-    "docs/cousins met.md",
+    "docs/Cousins Met.md",
+    "content/_index.md",
     "docs/_home.md",
     "_index.md",
     "content/cousins met.md",
     "content/Family picture.md",
     "CONFIG.md",
-    "docs/Untitled.md",
-    "thoughtsatfifty/obsidian/home.md"
+    "docs/_index.md"
   ]
 }
