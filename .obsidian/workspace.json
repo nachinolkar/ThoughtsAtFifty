@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Family picture.md",
+                "file": "docs/Family picture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Family picture.md",
+                "file": "docs/Family picture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Family picture.md",
+                "file": "docs/Family picture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Family picture.md"
+                "file": "docs/Family picture.md"
               }
             }
           },
@@ -281,17 +281,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2214fd1459f1b7da",
+  "active": "972387f0a4a72440",
   "lastOpenFiles": [
+    "docs/cousins met.md",
+    "docs/Family picture.md",
     "content/cousins met.md",
-    "content/_index.md",
     "content/Family picture.md",
+    "content/_index.md",
     "_index.md",
     "CONFIG.md",
     "docs/Untitled.md",
     "docs/_home.md",
-    "docs/cousins met.md",
-    "thoughtsatfifty/obsidian/home.md",
-    "thoughtsatfifty/obsidian/Deep Learning/Custom CUDA in Pytorch😃😃.md"
+    "thoughtsatfifty/obsidian/home.md"
   ]
 }
