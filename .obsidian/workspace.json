@@ -24,13 +24,8 @@
             "id": "86064566421de196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,7 +238,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "86064566421de196",
+  "active": "972387f0a4a72440",
   "lastOpenFiles": [
     "zola/content/_index.md",
     "thoughtsatfifty/content/test new note.md",
