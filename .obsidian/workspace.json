@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zola/content/_Index.md",
+                "file": "zola/content/xxIndex.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "zola/content/xxIndex.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "zola/content/xxIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "zola/content/xxIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "zola/content/xxIndex.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "a0863b3fc8f47178",
   "lastOpenFiles": [
-    "zola/content/_Index.md",
-    "thoughtsatfifty/content/xindex.md",
-    "content/_index.md"
+    "content/_index.md",
+    "thoughtsatfifty/content/xndex.md",
+    "zola/content/xxIndex.md"
   ]
 }
