@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "744ea17699f31091",
+        "id": "837b0276402b5da8",
         "type": "tabs",
         "children": [
           {
-            "id": "cfbc986893e44632",
+            "id": "aec08133c9a227b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,6 +185,8 @@
       "publish:Publish changes": false
     }
   },
-  "active": "58cecfe96a3118ec",
-  "lastOpenFiles": []
+  "active": "aec08133c9a227b0",
+  "lastOpenFiles": [
+    "zola/content/_index.md"
+  ]
 }
