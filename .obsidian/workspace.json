@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughtsatfifty/content/_index3.md",
+                "file": "content/wanttodelete.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/content/_index3.md",
+                "file": "content/wanttodelete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/content/_index3.md",
+                "file": "content/wanttodelete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughtsatfifty/content/_index3.md"
+                "file": "content/wanttodelete.md"
               }
             }
           },
@@ -196,9 +196,9 @@
   },
   "active": "aad85bf6535213a7",
   "lastOpenFiles": [
-    "content/_index2.md",
-    "thoughtsatfifty/content/_index3.md",
+    "thoughtsatfifty/content/delete.md",
     "zola/content/_index.md",
+    "content/wanttodelete.md",
     "home.md",
     "CONFIG.md"
   ]
