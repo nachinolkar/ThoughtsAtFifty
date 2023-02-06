@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/not needed content.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/not needed content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/not needed content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/not needed content.md"
               }
             }
           },
@@ -197,7 +197,8 @@
   "active": "dca2bc314218e986",
   "lastOpenFiles": [
     "thoughtsatfifty/content/not needed 2.md",
-    "zola/content/index.md",
-    "content/_index.md"
+    "zola/content/_index.md",
+    "home.md",
+    "content/not needed content.md"
   ]
 }
