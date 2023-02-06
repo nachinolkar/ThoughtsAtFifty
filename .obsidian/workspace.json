@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zola/content/index.md",
+                "file": "zola/content/_Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a0863b3fc8f47178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zola/content/index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zola/content/index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zola/content/index.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -194,9 +208,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "ca793187ed205e4d",
+  "active": "a0863b3fc8f47178",
   "lastOpenFiles": [
-    "thoughtsatfifty/content/_index.md",
-    "zola/content/index.md"
+    "zola/content/_Index.md",
+    "thoughtsatfifty/content/xindex.md",
+    "content/_index.md"
   ]
 }
