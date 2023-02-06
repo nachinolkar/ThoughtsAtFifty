@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "417bc1198731667c",
+        "id": "7fe0b7ffe29fb3c3",
         "type": "tabs",
         "children": [
           {
-            "id": "bd795dc27e45192b",
+            "id": "aad85bf6535213a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughtsatfifty/content/_index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62b7768ef43541c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughtsatfifty/content/_index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughtsatfifty/content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughtsatfifty/content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "thoughtsatfifty/content/_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,11 +185,12 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4d85348bcb5c969c",
+  "active": "aad85bf6535213a7",
   "lastOpenFiles": [
-    "home.md",
-    "CONFIG.md",
+    "thoughtsatfifty/content/_index.md",
+    "zola/content/_index.md",
     "content/_index.md",
-    "thoughtsatfifty/content/_index.md"
+    "home.md",
+    "CONFIG.md"
   ]
 }
