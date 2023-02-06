@@ -55,11 +55,11 @@ if __name__ == "__main__":
                     "",
                 ]
                 doc_path.write(["\n".join(content), *parsed_lines])
-                # print(f"Found page: {doc_path.new_rel_path}")
+                print(f"Found page: {doc_path.new_rel_path}")
             else:
                 # Resource
                 doc_path.copy()
-                # print(f"Found resource: {doc_path.new_rel_path}")
+                print(f"Found resource: {doc_path.new_rel_path}")
         else:
             """Section"""
             # Frontmatter
@@ -78,7 +78,7 @@ if __name__ == "__main__":
             ]
             section_count += 1
             doc_path.write_to("_index.md", "\n".join(content))
-            # print(f"Found section: {doc_path.new_rel_path}")
+            print(f"Found section: {doc_path.new_rel_path}")
 
     pp(nodes)
     pp(edges)

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe0b7ffe29fb3c3",
+        "id": "edca108226b4d79a",
         "type": "tabs",
         "children": [
           {
-            "id": "aad85bf6535213a7",
+            "id": "d65d1bbe864b6f65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/wanttodelete.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -194,7 +189,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "aad85bf6535213a7",
+  "active": "4d85348bcb5c969c",
   "lastOpenFiles": [
     "thoughtsatfifty/content/delete.md",
     "zola/content/_index.md",
