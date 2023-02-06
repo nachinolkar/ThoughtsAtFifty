@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9ac26938df0a73",
+        "id": "93c7c111e7672f90",
         "type": "tabs",
         "children": [
           {
-            "id": "61eda2799aedb578",
+            "id": "ca793187ed205e4d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,10 +185,6 @@
       "publish:Publish changes": false
     }
   },
-  "active": "61eda2799aedb578",
-  "lastOpenFiles": [
-    "zola/content/index.md",
-    "thoughtsatfifty/content/delete.md",
-    "content/index.md"
-  ]
+  "active": "ca793187ed205e4d",
+  "lastOpenFiles": []
 }
