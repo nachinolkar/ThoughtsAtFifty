@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd2a4ffd76f25f0",
+        "id": "39d326011383273f",
         "type": "tabs",
         "children": [
           {
-            "id": "2443e49c204c1ff5",
+            "id": "dca2bc314218e986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zola/content/_index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zola/content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zola/content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zola/content/_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,10 +185,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "2443e49c204c1ff5",
+  "active": "dca2bc314218e986",
   "lastOpenFiles": [
-    "thoughtsatfifty/content/not needed index.md",
     "content/Not Needed.md",
+    "thoughtsatfifty/content/not needed 2.md",
     "zola/content/_index.md"
   ]
 }
