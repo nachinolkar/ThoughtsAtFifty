@@ -19,8 +19,6 @@ else
 	__site/bin/obsidian-export --frontmatter=never --no-recursive-embeds __obsidian __site/build/__docs
 fi
 
-ls
-
 # Run conversion script
 python __site/convert.py
 
