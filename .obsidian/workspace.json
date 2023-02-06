@@ -11,8 +11,13 @@
             "id": "d65d1bbe864b6f65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zola/content/index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/wanttodelete.md",
+                "file": "zola/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/wanttodelete.md",
+                "file": "zola/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/wanttodelete.md"
+                "file": "zola/content/index.md"
               }
             }
           },
@@ -189,11 +194,11 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4d85348bcb5c969c",
+  "active": "d65d1bbe864b6f65",
   "lastOpenFiles": [
-    "thoughtsatfifty/content/delete.md",
-    "zola/content/_index.md",
     "content/wanttodelete.md",
+    "thoughtsatfifty/content/delete.md",
+    "zola/content/index.md",
     "home.md",
     "CONFIG.md"
   ]
