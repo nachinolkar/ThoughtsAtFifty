@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "40090b0dfa378666",
+        "id": "888c63f8cb58a2bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9cdd3b0e248068d1",
+            "id": "e76e26d6a0dc3d81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zola/content/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b364fb967531b743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughtsatfifty/content/test new note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4841197d85f6fe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/test content.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/test content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/test content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/test content.md"
-              }
+              "state": {}
             }
           },
           {
@@ -260,17 +224,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "4841197d85f6fe0c",
+  "active": "e76e26d6a0dc3d81",
   "lastOpenFiles": [
+    "zola/content/_index.md",
     "thoughtsatfifty/content/test new note.md",
-    "zola/content/index.md",
+    "content/test content.md",
     "content/_index del.md",
     "docs/Cousins Met.md",
     "CONFIG.md",
     "thoughtsatfifty/obsidian/home.md",
     "_index.md",
     "docs/Family picture.md",
-    "docs/_index2.md",
-    "docs/_home.md"
+    "docs/_index2.md"
   ]
 }
