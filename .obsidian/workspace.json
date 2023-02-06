@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "thoughtsatfifty/content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "thoughtsatfifty/content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "thoughtsatfifty/content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "thoughtsatfifty/content/_index.md"
               }
             }
           },
@@ -196,7 +196,7 @@
   },
   "active": "1081649c86669af2",
   "lastOpenFiles": [
-    "zola/content/delete.md",
-    "content/index.md"
+    "content/index.md",
+    "zola/content/delete.md"
   ]
 }
