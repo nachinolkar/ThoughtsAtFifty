@@ -6,8 +6,8 @@ pip install python-slugify
 echo "netlify.toml" >>.gitignore
 
 # Sync Zola template contents
-rsync -v __site/zola/ __site/build
-rsync -v __site/content/ __site/build/content
+rsync -av __site/zola/ __site/build
+rsync -av __site/content/ __site/build/content
 
 # Use obsidian-export to export markdown content from obsidian
 mkdir -p __site/build/content/docs __site/build/__docs
