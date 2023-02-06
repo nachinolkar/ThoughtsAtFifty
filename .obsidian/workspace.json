@@ -238,8 +238,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "972387f0a4a72440",
+  "active": "86064566421de196",
   "lastOpenFiles": [
+    "content/test.md",
     "zola/content/_index.md",
     "thoughtsatfifty/content/test new note.md",
     "content/test content.md",
@@ -248,7 +249,6 @@
     "CONFIG.md",
     "thoughtsatfifty/obsidian/home.md",
     "_index.md",
-    "docs/Family picture.md",
-    "docs/_index2.md"
+    "docs/Family picture.md"
   ]
 }
