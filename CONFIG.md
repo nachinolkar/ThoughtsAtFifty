@@ -1,6 +1,6 @@
 # `netlify.toml` options
 
-> Explains the effects and details of each option in `netlify.toml`'s `build.environment`.
+# Explains the effects and details of each option in `netlify.toml`'s `build.environment`.
 
 ## Required
 
