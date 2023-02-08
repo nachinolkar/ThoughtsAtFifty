@@ -9,7 +9,7 @@ echo "netlify.toml" >>.gitignore
 rsync -a __site/zola/ __site/build
 rsync -a __site/content/ __site/build/content
 
-ls -a 
+# ls -a 
 
 # Use obsidian-export to export markdown content from obsidian
 mkdir -p __site/build/content/docs __site/build/__docs
@@ -23,9 +23,6 @@ fi
 
 # Run conversion script
 python __site/convert.py
-
-echo "reached here next"
-pwd
 
 # Build Zola site
 zola --root __site/build build --output-dir public
