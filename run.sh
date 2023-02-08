@@ -2,7 +2,7 @@
 
 pip install python-slugify
 
-# Avoid copying over netlify.toml (will ebe exposed to public API)
+# Avoid copying over netlify.toml (will be exposed to public API)
 echo "netlify.toml" >>.gitignore
 
 # Sync Zola template contents
