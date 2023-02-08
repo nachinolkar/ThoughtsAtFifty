@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "zola/content/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "zola/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "zola/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zola/content/_index.md"
+                "file": "zola/content/index.md"
               }
             }
           },
@@ -194,11 +194,11 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4d85348bcb5c969c",
+  "active": "5d497228809e6935",
   "lastOpenFiles": [
     "content/docs/Cousins Met.md",
     "content/docs/Family picture.md",
-    "zola/content/_index.md",
+    "zola/content/index.md",
     "content/not needed content.md",
     "thoughtsatfifty/content/not needed 2.md",
     "home.md"
