@@ -25,7 +25,7 @@ fi
 python __site/convert.py
 
 echo "reached here next"
-echo pwd
+pwd
 
 # Build Zola site
 zola --root __site/build build --output-dir public
