@@ -11,8 +11,13 @@
             "id": "001c086142b38d07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "thoughtsatfifty/mydata/home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "thoughtsatfifty/mydata/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zola/content/_index.md",
+                "file": "thoughtsatfifty/mydata/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zola/content/_index.md"
+                "file": "thoughtsatfifty/mydata/home.md"
               }
             }
           },
@@ -189,13 +194,14 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4d85348bcb5c969c",
+  "active": "001c086142b38d07",
   "lastOpenFiles": [
+    "thoughtsatfifty/mydata/Deep Learning/Custom CUDA in Pytorch😃😃.md",
+    "thoughtsatfifty/content/not needed 2.md",
     "content/docs/Cousins Met.md",
     "content/docs/Family picture.md",
     "zola/content/_index.md",
     "content/not needed content.md",
-    "thoughtsatfifty/content/not needed 2.md",
     "home.md"
   ]
 }
